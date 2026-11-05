@@ -125,6 +125,6 @@ For questions, concerns, or requests regarding this Privacy Policy, please conta
 
 **Extension Name:** THOT Logged In Until Automator
 
-**Developer:** [Brent Li]
+**Developer:** Brent Li
 
-**Contact Email:** [litbyte@gmail.com]
+**Contact Email:** litbyte@gmail.com
