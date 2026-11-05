@@ -127,4 +127,4 @@ For questions, concerns, or requests regarding this Privacy Policy, please conta
 
 **Developer:** [Brent Li]
 
-**Contact Email:** [li.bitao@hotmail.com]
+**Contact Email:** [litbyte@gmail.com]
