@@ -45,6 +45,6 @@ Salesforce is a trademark of Salesforce, Inc.
 
 For questions or concerns regarding this extension or its privacy practices, please contact:
 
-**Developer:** [Brent Li]
+**Developer:** Brent Li
 
-**Email:** [litbyte@gmail.com]
+**Email:** litbyte@gmail.com
